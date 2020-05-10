@@ -1,0 +1,26 @@
+{
+  "files": {
+    "main.css": "/static/css/main.70bc21d5.chunk.css",
+    "main.js": "/static/js/main.76846ee8.chunk.js",
+    "main.js.map": "/static/js/main.76846ee8.chunk.js.map",
+    "runtime-main.js": "/static/js/runtime-main.04cf1f90.js",
+    "runtime-main.js.map": "/static/js/runtime-main.04cf1f90.js.map",
+    "static/css/2.de424728.chunk.css": "/static/css/2.de424728.chunk.css",
+    "static/js/2.3b973bb0.chunk.js": "/static/js/2.3b973bb0.chunk.js",
+    "static/js/2.3b973bb0.chunk.js.map": "/static/js/2.3b973bb0.chunk.js.map",
+    "index.html": "/index.html",
+    "precache-manifest.4b5aeb686a0a2570217bfa3621c7dce9.js": "/precache-manifest.4b5aeb686a0a2570217bfa3621c7dce9.js",
+    "service-worker.js": "/service-worker.js",
+    "static/css/2.de424728.chunk.css.map": "/static/css/2.de424728.chunk.css.map",
+    "static/css/main.70bc21d5.chunk.css.map": "/static/css/main.70bc21d5.chunk.css.map",
+    "static/js/2.3b973bb0.chunk.js.LICENSE.txt": "/static/js/2.3b973bb0.chunk.js.LICENSE.txt",
+    "static/media/pelota.png": "/static/media/pelota.3cdc8945.png"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.04cf1f90.js",
+    "static/css/2.de424728.chunk.css",
+    "static/js/2.3b973bb0.chunk.js",
+    "static/css/main.70bc21d5.chunk.css",
+    "static/js/main.76846ee8.chunk.js"
+  ]
+}
