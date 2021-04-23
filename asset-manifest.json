@@ -1,26 +1,24 @@
 {
   "files": {
-    "main.css": "./static/css/main.c660f0e9.chunk.css",
-    "main.js": "./static/js/main.e7d5ce63.chunk.js",
-    "main.js.map": "./static/js/main.e7d5ce63.chunk.js.map",
+    "main.css": "./static/css/main.1a857594.chunk.css",
+    "main.js": "./static/js/main.3c9bdc3e.chunk.js",
+    "main.js.map": "./static/js/main.3c9bdc3e.chunk.js.map",
     "runtime-main.js": "./static/js/runtime-main.4a5975a8.js",
     "runtime-main.js.map": "./static/js/runtime-main.4a5975a8.js.map",
     "static/css/2.de424728.chunk.css": "./static/css/2.de424728.chunk.css",
-    "static/js/2.e011d7d1.chunk.js": "./static/js/2.e011d7d1.chunk.js",
-    "static/js/2.e011d7d1.chunk.js.map": "./static/js/2.e011d7d1.chunk.js.map",
+    "static/js/2.ad9ef687.chunk.js": "./static/js/2.ad9ef687.chunk.js",
+    "static/js/2.ad9ef687.chunk.js.map": "./static/js/2.ad9ef687.chunk.js.map",
     "index.html": "./index.html",
-    "precache-manifest.31e307c3886d886defd1b9fccfab3427.js": "./precache-manifest.31e307c3886d886defd1b9fccfab3427.js",
+    "precache-manifest.32fe7108ad2baeb39b7039647004236f.js": "./precache-manifest.32fe7108ad2baeb39b7039647004236f.js",
     "service-worker.js": "./service-worker.js",
     "static/css/2.de424728.chunk.css.map": "./static/css/2.de424728.chunk.css.map",
-    "static/css/main.c660f0e9.chunk.css.map": "./static/css/main.c660f0e9.chunk.css.map",
-    "static/js/2.e011d7d1.chunk.js.LICENSE.txt": "./static/js/2.e011d7d1.chunk.js.LICENSE.txt",
+    "static/css/main.1a857594.chunk.css.map": "./static/css/main.1a857594.chunk.css.map",
+    "static/js/2.ad9ef687.chunk.js.LICENSE.txt": "./static/js/2.ad9ef687.chunk.js.LICENSE.txt",
     "static/media/GMatch_NEW_WHITE.png": "./static/media/GMatch_NEW_WHITE.ff1fd14b.png",
     "static/media/LOGO_FPRM_white.png": "./static/media/LOGO_FPRM_white.0f19037f.png",
     "static/media/MCT_REAL_neg.png": "./static/media/MCT_REAL_neg.8d965b4c.png",
     "static/media/MiraDigital_white.png": "./static/media/MiraDigital_white.762163ea.png",
     "static/media/Siux_white.png": "./static/media/Siux_white.dc78cd15.png",
-    "static/media/head.svg": "./static/media/head.139f77b2.svg",
-    "static/media/joma.png": "./static/media/joma.77ae43d9.png",
     "static/media/pelota.png": "./static/media/pelota.3cdc8945.png",
     "static/media/Partido_tv_led.css": "./static/media/pista3.95ffe366.jpg",
     "static/media/rfet2.jpg": "./static/media/rfet2.57f6bed5.jpg",
@@ -30,8 +28,8 @@
   "entrypoints": [
     "static/js/runtime-main.4a5975a8.js",
     "static/css/2.de424728.chunk.css",
-    "static/js/2.e011d7d1.chunk.js",
-    "static/css/main.c660f0e9.chunk.css",
-    "static/js/main.e7d5ce63.chunk.js"
+    "static/js/2.ad9ef687.chunk.js",
+    "static/css/main.1a857594.chunk.css",
+    "static/js/main.3c9bdc3e.chunk.js"
   ]
 }
