@@ -1,23 +1,24 @@
 {
   "files": {
-    "main.css": "./static/css/main.6fea12c1.chunk.css",
-    "main.js": "./static/js/main.75548ecb.chunk.js",
-    "main.js.map": "./static/js/main.75548ecb.chunk.js.map",
+    "main.css": "./static/css/main.7a7416f4.chunk.css",
+    "main.js": "./static/js/main.dd2907f2.chunk.js",
+    "main.js.map": "./static/js/main.dd2907f2.chunk.js.map",
     "runtime-main.js": "./static/js/runtime-main.4a5975a8.js",
     "runtime-main.js.map": "./static/js/runtime-main.4a5975a8.js.map",
-    "static/css/2.de424728.chunk.css": "./static/css/2.de424728.chunk.css",
-    "static/js/2.670d8a1d.chunk.js": "./static/js/2.670d8a1d.chunk.js",
-    "static/js/2.670d8a1d.chunk.js.map": "./static/js/2.670d8a1d.chunk.js.map",
+    "static/css/2.a3ea2720.chunk.css": "./static/css/2.a3ea2720.chunk.css",
+    "static/js/2.45fe9a35.chunk.js": "./static/js/2.45fe9a35.chunk.js",
+    "static/js/2.45fe9a35.chunk.js.map": "./static/js/2.45fe9a35.chunk.js.map",
     "index.html": "./index.html",
-    "precache-manifest.a31b7f6d94c2185cd92f7f27446d70d7.js": "./precache-manifest.a31b7f6d94c2185cd92f7f27446d70d7.js",
+    "precache-manifest.7941be7ff91727f7e30aa8c11f86f238.js": "./precache-manifest.7941be7ff91727f7e30aa8c11f86f238.js",
     "service-worker.js": "./service-worker.js",
-    "static/css/2.de424728.chunk.css.map": "./static/css/2.de424728.chunk.css.map",
-    "static/css/main.6fea12c1.chunk.css.map": "./static/css/main.6fea12c1.chunk.css.map",
-    "static/js/2.670d8a1d.chunk.js.LICENSE.txt": "./static/js/2.670d8a1d.chunk.js.LICENSE.txt",
+    "static/css/2.a3ea2720.chunk.css.map": "./static/css/2.a3ea2720.chunk.css.map",
+    "static/css/main.7a7416f4.chunk.css.map": "./static/css/main.7a7416f4.chunk.css.map",
+    "static/js/2.45fe9a35.chunk.js.LICENSE.txt": "./static/js/2.45fe9a35.chunk.js.LICENSE.txt",
     "static/media/Dominos.png": "./static/media/Dominos.2703a472.png",
     "static/media/GMatch_NEW_BLACK.png": "./static/media/GMatch_NEW_BLACK.4b2399c0.png",
     "static/media/GMatch_NEW_WHITE.png": "./static/media/GMatch_NEW_WHITE.ff1fd14b.png",
     "static/media/LOGO_FPRM_white.png": "./static/media/LOGO_FPRM_white.0f19037f.png",
+    "static/media/LogoGmatchNegroNuevo.png": "./static/media/LogoGmatchNegroNuevo.3486bdb9.png",
     "static/media/MCT_REAL_neg.png": "./static/media/MCT_REAL_neg.8d965b4c.png",
     "static/media/MiraDigital_white.png": "./static/media/MiraDigital_white.762163ea.png",
     "static/media/Siux_white.png": "./static/media/Siux_white.dc78cd15.png",
@@ -29,9 +30,9 @@
   },
   "entrypoints": [
     "static/js/runtime-main.4a5975a8.js",
-    "static/css/2.de424728.chunk.css",
-    "static/js/2.670d8a1d.chunk.js",
-    "static/css/main.6fea12c1.chunk.css",
-    "static/js/main.75548ecb.chunk.js"
+    "static/css/2.a3ea2720.chunk.css",
+    "static/js/2.45fe9a35.chunk.js",
+    "static/css/main.7a7416f4.chunk.css",
+    "static/js/main.dd2907f2.chunk.js"
   ]
 }
