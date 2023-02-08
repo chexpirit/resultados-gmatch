@@ -1,19 +1,19 @@
 {
   "files": {
-    "main.css": "./static/css/main.284dd806.chunk.css",
-    "main.js": "./static/js/main.668e123a.chunk.js",
-    "main.js.map": "./static/js/main.668e123a.chunk.js.map",
+    "main.css": "./static/css/main.fd1f7deb.chunk.css",
+    "main.js": "./static/js/main.2f5d3258.chunk.js",
+    "main.js.map": "./static/js/main.2f5d3258.chunk.js.map",
     "runtime-main.js": "./static/js/runtime-main.4a5975a8.js",
     "runtime-main.js.map": "./static/js/runtime-main.4a5975a8.js.map",
     "static/css/2.84a2c760.chunk.css": "./static/css/2.84a2c760.chunk.css",
-    "static/js/2.059e8bbc.chunk.js": "./static/js/2.059e8bbc.chunk.js",
-    "static/js/2.059e8bbc.chunk.js.map": "./static/js/2.059e8bbc.chunk.js.map",
+    "static/js/2.fb76e1fd.chunk.js": "./static/js/2.fb76e1fd.chunk.js",
+    "static/js/2.fb76e1fd.chunk.js.map": "./static/js/2.fb76e1fd.chunk.js.map",
     "index.html": "./index.html",
-    "precache-manifest.9b9fbd980d9568afa0c49c2066eb0c4a.js": "./precache-manifest.9b9fbd980d9568afa0c49c2066eb0c4a.js",
+    "precache-manifest.0fd3af5b1b89a86963065708deadb050.js": "./precache-manifest.0fd3af5b1b89a86963065708deadb050.js",
     "service-worker.js": "./service-worker.js",
     "static/css/2.84a2c760.chunk.css.map": "./static/css/2.84a2c760.chunk.css.map",
-    "static/css/main.284dd806.chunk.css.map": "./static/css/main.284dd806.chunk.css.map",
-    "static/js/2.059e8bbc.chunk.js.LICENSE.txt": "./static/js/2.059e8bbc.chunk.js.LICENSE.txt",
+    "static/css/main.fd1f7deb.chunk.css.map": "./static/css/main.fd1f7deb.chunk.css.map",
+    "static/js/2.fb76e1fd.chunk.js.LICENSE.txt": "./static/js/2.fb76e1fd.chunk.js.LICENSE.txt",
     "static/media/CEDU.png": "./static/media/CEDU.61c5f05e.png",
     "static/media/CEDU_white.png": "./static/media/CEDU_white.d90be602.png",
     "static/media/CSD.png": "./static/media/CSD.7e03140b.png",
@@ -34,6 +34,8 @@
     "static/media/UCAM25_color.png": "./static/media/UCAM25_color.0ffbc06c.png",
     "static/media/pelota.png": "./static/media/pelota.3cdc8945.png",
     "static/media/Partido_tv_led.css": "./static/media/pista3.95ffe366.jpg",
+    "static/media/pngegg.png": "./static/media/pngegg.1aebb91b.png",
+    "static/media/Partido_tv.scss": "./static/media/pp2.014434a4.jpg",
     "static/media/rfet2.jpg": "./static/media/rfet2.57f6bed5.jpg",
     "static/media/rfet4.png": "./static/media/rfet4.b3261469.png",
     "static/media/rfet5.png": "./static/media/rfet5.b8574ef1.png"
@@ -41,8 +43,8 @@
   "entrypoints": [
     "static/js/runtime-main.4a5975a8.js",
     "static/css/2.84a2c760.chunk.css",
-    "static/js/2.059e8bbc.chunk.js",
-    "static/css/main.284dd806.chunk.css",
-    "static/js/main.668e123a.chunk.js"
+    "static/js/2.fb76e1fd.chunk.js",
+    "static/css/main.fd1f7deb.chunk.css",
+    "static/js/main.2f5d3258.chunk.js"
   ]
 }
