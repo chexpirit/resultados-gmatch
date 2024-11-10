@@ -1,18 +1,18 @@
 {
   "files": {
-    "main.css": "./static/css/main.994cb6d9.chunk.css",
-    "main.js": "./static/js/main.19d249b7.chunk.js",
-    "main.js.map": "./static/js/main.19d249b7.chunk.js.map",
+    "main.css": "./static/css/main.c692dad0.chunk.css",
+    "main.js": "./static/js/main.7e5ae448.chunk.js",
+    "main.js.map": "./static/js/main.7e5ae448.chunk.js.map",
     "runtime-main.js": "./static/js/runtime-main.4a5975a8.js",
     "runtime-main.js.map": "./static/js/runtime-main.4a5975a8.js.map",
     "static/css/2.84a2c760.chunk.css": "./static/css/2.84a2c760.chunk.css",
     "static/js/2.418791f2.chunk.js": "./static/js/2.418791f2.chunk.js",
     "static/js/2.418791f2.chunk.js.map": "./static/js/2.418791f2.chunk.js.map",
     "index.html": "./index.html",
-    "precache-manifest.ca9fe0d00cc144f890392680e01ffa9c.js": "./precache-manifest.ca9fe0d00cc144f890392680e01ffa9c.js",
+    "precache-manifest.e98e3c49bfbd5b584f41c546813b00ed.js": "./precache-manifest.e98e3c49bfbd5b584f41c546813b00ed.js",
     "service-worker.js": "./service-worker.js",
     "static/css/2.84a2c760.chunk.css.map": "./static/css/2.84a2c760.chunk.css.map",
-    "static/css/main.994cb6d9.chunk.css.map": "./static/css/main.994cb6d9.chunk.css.map",
+    "static/css/main.c692dad0.chunk.css.map": "./static/css/main.c692dad0.chunk.css.map",
     "static/js/2.418791f2.chunk.js.LICENSE.txt": "./static/js/2.418791f2.chunk.js.LICENSE.txt",
     "static/media/CEDU.png": "./static/media/CEDU.61c5f05e.png",
     "static/media/CSD.png": "./static/media/CSD.7e03140b.png",
@@ -28,7 +28,7 @@
     "static/media/Siux_white.png": "./static/media/Siux_white.dc78cd15.png",
     "static/media/UCAM25_color.png": "./static/media/UCAM25_color.0ffbc06c.png",
     "static/media/pelota.png": "./static/media/pelota.3cdc8945.png",
-    "static/media/Partido_tv_led.css": "./static/media/pista3.95ffe366.jpg",
+    "static/media/Partido_tv_led.css": "./static/media/pista3.92188fa4.jpg",
     "static/media/pngegg.png": "./static/media/pngegg.1aebb91b.png",
     "static/media/Partido_tv.scss": "./static/media/pp2.014434a4.jpg",
     "static/media/rfet2.jpg": "./static/media/rfet2.57f6bed5.jpg",
@@ -38,7 +38,7 @@
     "static/js/runtime-main.4a5975a8.js",
     "static/css/2.84a2c760.chunk.css",
     "static/js/2.418791f2.chunk.js",
-    "static/css/main.994cb6d9.chunk.css",
-    "static/js/main.19d249b7.chunk.js"
+    "static/css/main.c692dad0.chunk.css",
+    "static/js/main.7e5ae448.chunk.js"
   ]
 }
