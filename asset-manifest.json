@@ -1,19 +1,19 @@
 {
   "files": {
     "main.css": "./static/css/main.63475a35.chunk.css",
-    "main.js": "./static/js/main.fb885ee2.chunk.js",
-    "main.js.map": "./static/js/main.fb885ee2.chunk.js.map",
+    "main.js": "./static/js/main.e37e7cae.chunk.js",
+    "main.js.map": "./static/js/main.e37e7cae.chunk.js.map",
     "runtime-main.js": "./static/js/runtime-main.4a5975a8.js",
     "runtime-main.js.map": "./static/js/runtime-main.4a5975a8.js.map",
     "static/css/2.84a2c760.chunk.css": "./static/css/2.84a2c760.chunk.css",
-    "static/js/2.1b8b5980.chunk.js": "./static/js/2.1b8b5980.chunk.js",
-    "static/js/2.1b8b5980.chunk.js.map": "./static/js/2.1b8b5980.chunk.js.map",
+    "static/js/2.deaccb9a.chunk.js": "./static/js/2.deaccb9a.chunk.js",
+    "static/js/2.deaccb9a.chunk.js.map": "./static/js/2.deaccb9a.chunk.js.map",
     "index.html": "./index.html",
-    "precache-manifest.8ced577ec6269ba0315737d2b2bbc5f3.js": "./precache-manifest.8ced577ec6269ba0315737d2b2bbc5f3.js",
+    "precache-manifest.44845f7866e89401f032eac9f69e54eb.js": "./precache-manifest.44845f7866e89401f032eac9f69e54eb.js",
     "service-worker.js": "./service-worker.js",
     "static/css/2.84a2c760.chunk.css.map": "./static/css/2.84a2c760.chunk.css.map",
     "static/css/main.63475a35.chunk.css.map": "./static/css/main.63475a35.chunk.css.map",
-    "static/js/2.1b8b5980.chunk.js.LICENSE.txt": "./static/js/2.1b8b5980.chunk.js.LICENSE.txt",
+    "static/js/2.deaccb9a.chunk.js.LICENSE.txt": "./static/js/2.deaccb9a.chunk.js.LICENSE.txt",
     "static/media/CEDU.png": "./static/media/CEDU.61c5f05e.png",
     "static/media/CSD.png": "./static/media/CSD.7e03140b.png",
     "static/media/CostaCalida.png": "./static/media/CostaCalida.1e9b313f.png",
@@ -28,6 +28,7 @@
     "static/media/RegiondeMurcia.png": "./static/media/RegiondeMurcia.97a72c10.png",
     "static/media/Siux_white.png": "./static/media/Siux_white.dc78cd15.png",
     "static/media/UCAM25_color.png": "./static/media/UCAM25_color.0ffbc06c.png",
+    "static/media/padelNuestro.svg": "./static/media/padelNuestro.3f984cf0.svg",
     "static/media/pelota.png": "./static/media/pelota.3cdc8945.png",
     "static/media/Partido_tv_led.css": "./static/media/pista3.92188fa4.jpg",
     "static/media/pngegg.png": "./static/media/pngegg.1aebb91b.png",
@@ -38,8 +39,8 @@
   "entrypoints": [
     "static/js/runtime-main.4a5975a8.js",
     "static/css/2.84a2c760.chunk.css",
-    "static/js/2.1b8b5980.chunk.js",
+    "static/js/2.deaccb9a.chunk.js",
     "static/css/main.63475a35.chunk.css",
-    "static/js/main.fb885ee2.chunk.js"
+    "static/js/main.e37e7cae.chunk.js"
   ]
 }
